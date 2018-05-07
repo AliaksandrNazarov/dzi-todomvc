@@ -3,8 +3,7 @@
   "version": "2.1.11",
   "description": "todoMVC based on Dzi-UI framework",
   "private": true,
-  "dependencies": {
-  },
+  "dependencies": {},
   "author": "http://linkedin.com/alitskevich",
   "license": "MIT",
   "scripts": {
